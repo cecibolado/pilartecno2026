@@ -11,7 +11,11 @@ body {
 }
 
 .container {
+<<<<<<< HEAD
   background: rgb(230, 20, 20);
+=======
+  background: rgb(177, 46, 46);
+>>>>>>> feature/title
   padding: 30px;
   border-radius: 10px;
   text-align: center;
